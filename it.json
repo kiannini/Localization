@@ -1,12 +1,12 @@
 {
     "lng_intro_about2": "Benvenuti nell'app 64Gram Desktop.\nÈ veloce e sicura.",
 
-    "lng_settings_enhanced": "Migliorie",
+    "lng_settings_enhanced": "Impostazioni Avanzate",
     "lng_settings_network": "Rete",
-    "lng_settings_net_upload_speed_boost": "Incremento velocità di caricamento",
-    "lng_settings_net_download_speed_boost": "Download speed boost",
+    "lng_settings_net_upload_speed_boost": "Incremento velocità di Upload",
+    "lng_settings_net_download_speed_boost": "Incremento velocità di Download",
     "lng_settings_show_message_id": "Mostra ID dei messaggi",
-    "lng_settings_button": "Pulsanti",
+    "lng_settings_button": "Pulsante",
     "lng_settings_show_emoji_button_as_text": "Testo invece delle emoji",
     "lng_settings_show_repeater_option": "Mostra opzioni di inoltro",
     "lng_settings_show_phone_number": "Mostra il mio numero",
